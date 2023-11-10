@@ -1,4 +1,4 @@
-# my_math222
+# my_math_for_school21
 
 ### Обзор некоторых функций "math.h"
 
